@@ -4,6 +4,7 @@
   padding: 8px;
   width: fit-content;
   min-width: 200px;
+  border-radius: 16px;
 }
 .tweet h3, p{
   margin: 0;
